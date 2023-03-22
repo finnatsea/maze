@@ -1,4 +1,4 @@
-# Ex-Maze
+# maze
 
 This program generates a random maze using a depth-first search algorithm and then solves the maze using another depth-first search algorithm. The maze size can be customized by changing the `MAZE_WIDTH` and `MAZE_HEIGHT` values.
 
